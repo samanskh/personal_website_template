@@ -1,14 +1,14 @@
 ---
 layout: posts
-title: مصاحبه با آقای بیات‌خانی
+title: مصاحبه با سال بالایی
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## NOT YET
+NONE:
+- NONE
+- NONE
+- NONE
+- NONE
 
 [my favorite website](http://www.google.com)
 

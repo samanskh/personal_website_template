@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: معرفی
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+- I'm saman
+- and I'm 18 
+- love to learn more

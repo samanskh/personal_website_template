@@ -109,14 +109,14 @@ analytics:
 author:
   name             : "saman khajeamiri"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
+  bio              : basketball + football.
   location         : "تهران"
-  email            : sauleh@gmail.com
+  email            : samankhajeamiri@yahoo.com
   twitter: sauleh_e
   linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: samanskh
+  instagram: khajeamirisaman
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
