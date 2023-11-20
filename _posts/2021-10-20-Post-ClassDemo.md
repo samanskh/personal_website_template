@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: مصاحبه با سال بالایی
+title: دانشگاه
 ---
 
 ## NOT YET
