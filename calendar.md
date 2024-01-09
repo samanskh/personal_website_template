@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /calendar/
-title: Hobbies
+title: Calendar
 tags: [calendar]
 modified: 11-22-2023
 comments: false
