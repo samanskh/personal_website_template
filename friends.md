@@ -2,16 +2,14 @@
 layout: single
 author_profile: true
 permalink: /friends/
-title: My friends around the world
+title: Grades
 tags: [friends]
 modified: 4-10-2019
 comments: true
 ---
 
-### همکلاسی‌ها
-* [علی حسینی](http://alihosseini.github.io)
-* بهداد محمدی
-* حسن داریان
+### نمره ها
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRIFXXS5Z0psoHfRKdMV4vbHKxXH0Xk0eteDCorZm8tRHUH3Zo--bXWfwyoWvVk1efccnSM1fOHnqbl/pubhtml?gid=745590829&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 

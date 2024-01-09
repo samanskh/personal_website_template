@@ -4,11 +4,11 @@ main:
     url: /cv/
   - title: "Courses"
     url: /courses/
-  - title: "Friends"
+  - title: "Grades"
     url: /friends/
   - title: "Links"
     url: /links/
-  - title: "Hobbies"
+  - title: "Lifetime"
     url: /hobbies/  
   - title: "Gallery"
     url: /gallery/
