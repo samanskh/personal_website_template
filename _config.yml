@@ -83,8 +83,6 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : sauleh_e
 facebook:
   username               : sauleh.eetemadi
   app_id                 :
@@ -112,7 +110,6 @@ author:
   bio              : basketball + football.
   location         : "تهران"
   email            : samankhajeamiri@yahoo.com
-  twitter: sauleh_e
   linkedin: in/saman-khajeamiri-33895229a/
   google_scholar: Q25s5KkAAAAJ
   github: samanskh
@@ -140,9 +137,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
