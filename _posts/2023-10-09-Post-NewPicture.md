@@ -158,6 +158,8 @@ title: کارهای کلاسی
     
     
     turtle.mainloop()
+
+    
 ![alt text](../assets/images/tree.png "Team Picture")
 
 
