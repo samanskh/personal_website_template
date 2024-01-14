@@ -163,7 +163,7 @@ title: کارهای کلاسی
 ![alt text](../assets/images/tree.png "Team Picture")
 
 
-# کد های پروژه درخت:
+# کد های پروژه مثلث:
     import turtle
 
     def tri(d):
