@@ -3,7 +3,7 @@ layout: posts
 title: کارهای کلاسی
 ---
 
-## This is my team at Microsoft
+## ترم 1
 کار های گرافیکی:
 - درخت
 - مثلث
@@ -19,4 +19,4 @@ title: کارهای کلاسی
 ![alt text](../assets/images/tree.png "Team Picture")
 ![alt text](../assets/images/triangle.png "Team Picture")
 ---
-**Test**: This is atest
+
